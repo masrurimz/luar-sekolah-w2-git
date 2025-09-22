@@ -6,3 +6,6 @@
    1. C++
    2. Pascal
    3. Haskell
+4. Portofolio:
+   1. Realtime stock analyst
+   2. Trading Bot
